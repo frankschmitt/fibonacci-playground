@@ -1,0 +1,2 @@
+= Synopsis
+Naive and not-so-naive computations of Fibonacci numbers.
